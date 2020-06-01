@@ -13,10 +13,8 @@ git clone https://github.com/blogcacanid/reactjs-product.git
 ## Lalu masuk ke direktori project:
 cd reactjs-product
 
-## Selanjutnya jalankan perintah berikut secara berurutan:
-- composer install
-- cp .env.example .env
-- php artisan key:generate
+## Selanjutnya intall npm menggunakan perintah berikut:
+- npm install
 
 ## Testing
 Jalankan React JS dengan menggunakan perintah berikut:
